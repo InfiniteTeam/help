@@ -1,2 +1,2 @@
-# support
-support
+# help
+help

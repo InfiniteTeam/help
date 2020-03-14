@@ -1,1 +1,1 @@
-![]('./salmonbot/salmonhelp.png')
+help

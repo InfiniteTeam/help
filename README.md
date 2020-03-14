@@ -1,1 +1,1 @@
-<img src=./salmonbot/salmonhelp.png>
+![]('./salmonbot/salmonhelp.png')
